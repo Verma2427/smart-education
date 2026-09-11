@@ -10,5 +10,376 @@ No. | Hindi | English / Pronunciation | Translation
 4.  | पानी | Paani | Dak
 5.  | घर | Ghar | Era
 6.  | खाना | Khaana | Jom
+नमस्ते | Hello | Namaste | Johar
+धन्यवाद | Thank you | Dhanyavaad | Sari Sari
+अलविदा | Goodbye | Alvida | Jom jom
+पानी | Water | Paani | Dak
+घर | House | Ghar | Era
+खाना | Food | Khaana | Jom
+एक | One | Ek | Mit
+दो | Two | Do | Bar
+तीन | Three | Teen | Pe
+चार | Four | Chaar | Pon
+पांच | Five | Paanch | Monre
+छह | Six | Chhah | Turui
+सात | Seven | Saat | Eae
+आठ | Eight | Aath | Iral
+नौ | Nine | Nau | Are
+दस | Ten | Das | Gel
+माँ | Mother | Maa | Ayo
+पिता | Father | Pita | Apu
+बच्चा | Child | Bachcha | Hopon
+आँख | Eye | Aankh | Met
+कान | Ear | Kaan | Lutur
+नाक | Nose | Naak | Mu'
+सिर | Head | Sir | Bohok
+हाथ | Hand | Haath | Ti'
+पैर | Leg/Foot | Pair | Jang'
+बाल | Hair | Baal | Uv
+सूरज | Sun | Suraj | Singi
+चाँद | Moon | Chaand | Chando
+आग | Fire | Aag | Sengel
+पेड़ | Tree | Ped | Daru
+पत्थर | Stone | Patthar | Dhiri
+आकाश | Sky | Aakash | Sirma
+मिट्टी | Earth/Land | Mitti | Hasa
+कुत्ता | Dog | Kutta | Seta
+बिल्ली | Cat | Billi | Pusi
+पक्षी | Bird | Pakshi | Chele
+मछली | Fish | Machhli | Hako
+साँप | Snake | Saanp | Bing
+फूल | Flower | Phool | Baha
+नमक | Salt | Namak | Bulung
+aaनमस्ते | Hello | Namaste | Johar
+धन्यवाद | Thank you | Dhanyavaad | Sari Sari
+अलविदा | Goodbye | Alvida | Jom jom
+पानी | Water | Paani | Dak
+घर | House | Ghar | Era
+खाना | Food | Khaana | Jom
+एक | One | Ek | Mit
+दो | Two | Do | Bar
+तीन | Three | Teen | Pe
+चार | Four | Chaar | Pon
+पांच | Five | Paanch | Monre
+छह | Six | Chhah | Turui
+सात | Seven | Saat | Eae
+आठ | Eight | Aath | Iral
+नौ | Nine | Nau | Are
+दस | Ten | Das | Gel
+माँ | Mother | Maa | Ayo
+पिता | Father | Pita | Apu
+बच्चा | Child | Bachcha | Hopon
+आँख | Eye | Aankh | Met
+कान | Ear | Kaan | Lutur
+नाक | Nose | Naak | Mu'
+सिर | Head | Sir | Bohok
+हाथ | Hand | Haath | Ti'
+पैर | Leg/Foot | Pair | Jang'
+बाल | Hair | Baal | Uv
+सूरज | Sun | Suraj | Singi
+चाँद | Moon | Chaand | Chando
+आग | Fire | Aag | Sengel
+पेड़ | Tree | Ped | Daru
+पत्थर | Stone | Patthar | Dhiri
+आकाश | Sky | Aakash | Sirma
+मिट्टी | Earth/Land | Mitti | Hasa
+कुत्ता | Dog | Kutta | Seta
+बिल्ली | Cat | Billi | Pusi
+पक्षी | Bird | Pakshi | Chele
+मछली | Fish | Machhli | Hako
+साँप | Snake | Saanp | Bing
+फूल | Flower | Phool | Baha
+नमक | Salt | Namak | Bulung
+नमस्ते | Hello | Namaste | Johar
+धन्यवाद | Thank you | Dhanyavaad | Sari Sari
+अलविदा | Goodbye | Alvida | Jom jom
+पानी | Water | Paani | Dak
+घर | House | Ghar | Era
+खाना | Food | Khaana | Jom
+एक | One | Ek | Mit
+दो | Two | Do | Bar
+तीन | Three | Teen | Pe
+चार | Four | Chaar | Pon
+पांच | Five | Paanch | Monre
+छह | Six | Chhah | Turui
+सात | Seven | Saat | Eae
+आठ | Eight | Aath | Iral
+नौ | Nine | Nau | Are
+दस | Ten | Das | Gel
+माँ | Mother | Maa | Ayo
+पिता | Father | Pita | Apu
+बच्चा | Child | Bachcha | Hopon
+आँख | Eye | Aankh | Met
+कान | Ear | Kaan | Lutur
+नाक | Nose | Naak | Mu'
+सिर | Head | Sir | Bohok
+हाथ | Hand | Haath | Ti'
+पैर | Leg/Foot | Pair | Jang'
+बाल | Hair | Baal | Uv
+सूरज | Sun | Suraj | Singi
+चाँद | Moon | Chaand | Chando
+आग | Fire | Aag | Sengel
+पेड़ | Tree | Ped | Daru
+पत्थर | Stone | Patthar | Dhiri
+आकाश | Sky | Aakash | Sirma
+मिट्टी | Earth/Land | Mitti | Hasa
+कुत्ता | Dog | Kutta | Seta
+बिल्ली | Cat | Billi | Pusi
+पक्षी | Bird | Pakshi | Chele
+मछली | Fish | Machhli | Hako
+साँप | Snake | Saanp | Bing
+फूल | Flower | Phool | Baha
+नमक | Salt | Namak | Bulung
 
-⚠️  Demo data — validate with native speakers before classroom use.
+नमस्ते | Hello | Namaste | Johar
+धन्यवाद | Thank you | Dhanyavaad | Sari Sari
+अलविदा | Goodbye | Alvida | Jom jom
+पानी | Water | Paani | Dak
+घर | House | Ghar | Era
+खाना | Food | Khaana | Jom
+एक | One | Ek | Mit
+दो | Two | Do | Bar
+तीन | Three | Teen | Pe
+चार | Four | Chaar | Pon
+पांच | Five | Paanch | Monre
+छह | Six | Chhah | Turui
+सात | Seven | Saat | Eae
+आठ | Eight | Aath | Iral
+नौ | Nine | Nau | Are
+दस | Ten | Das | Gel
+माँ | Mother | Maa | Ayo
+पिता | Father | Pita | Apu
+बच्चा | Child | Bachcha | Hopon
+आँख | Eye | Aankh | Met
+कान | Ear | Kaan | Lutur
+नाक | Nose | Naak | Mu'
+सिर | Head | Sir | Bohok
+हाथ | Hand | Haath | Ti'
+पैर | Leg/Foot | Pair | Jang'
+बाल | Hair | Baal | Uv
+सूरज | Sun | Suraj | Singi
+चाँद | Moon | Chaand | Chando
+आग | Fire | Aag | Sengel
+पेड़ | Tree | Ped | Daru
+पत्थर | Stone | Patthar | Dhiri
+आकाश | Sky | Aakash | Sirma
+मिट्टी | Earth/Land | Mitti | Hasa
+कुत्ता | Dog | Kutta | Seta
+बिल्ली | Cat | Billi | Pusi
+पक्षी | Bird | Pakshi | Chele
+मछली | Fish | Machhli | Hako
+साँप | Snake | Saanp | Bing
+फूल | Flower | Phool | Baha
+नमक | Salt | Namak | Bulung
+नमस्ते | Hello | Namaste | Johar
+धन्यवाद | Thank you | Dhanyavaad | Sari Sari
+अलविदा | Goodbye | Alvida | Jom jom
+पानी | Water | Paani | Dak
+घर | House | Ghar | Era
+खाना | Food | Khaana | Jom
+एक | One | Ek | Mit
+दो | Two | Do | Bar
+तीन | Three | Teen | Pe
+चार | Four | Chaar | Pon
+पांच | Five | Paanch | Monre
+छह | Six | Chhah | Turui
+सात | Seven | Saat | Eae
+आठ | Eight | Aath | Iral
+नौ | Nine | Nau | Are
+दस | Ten | Das | Gel
+माँ | Mother | Maa | Ayo
+पिता | Father | Pita | Apu
+बच्चा | Child | Bachcha | Hopon
+आँख | Eye | Aankh | Met
+कान | Ear | Kaan | Lutur
+नाक | Nose | Naak | Mu'
+सिर | Head | Sir | Bohok
+हाथ | Hand | Haath | Ti'
+पैर | Leg/Foot | Pair | Jang'
+बाल | Hair | Baal | Uv
+सूरज | Sun | Suraj | Singi
+चाँद | Moon | Chaand | Chando
+आग | Fire | Aag | Sengel
+पेड़ | Tree | Ped | Daru
+पत्थर | Stone | Patthar | Dhiri
+आकाश | Sky | Aakash | Sirma
+मिट्टी | Earth/Land | Mitti | Hasa
+कुत्ता | Dog | Kutta | Seta
+बिल्ली | Cat | Billi | Pusi
+पक्षी | Bird | Pakshi | Chele
+मछली | Fish | Machhli | Hako
+साँप | Snake | Saanp | Bing
+फूल | Flower | Phool | Baha
+नमक | Salt | Namak | Bulung
+नमस्ते | Hello | Namaste | Johar
+धन्यवाद | Thank you | Dhanyavaad | Sari Sari
+अलविदा | Goodbye | Alvida | Jom jom
+पानी | Water | Paani | Dak
+घर | House | Ghar | Era
+खाना | Food | Khaana | Jom
+एक | One | Ek | Mit
+दो | Two | Do | Bar
+तीन | Three | Teen | Pe
+चार | Four | Chaar | Pon
+पांच | Five | Paanch | Monre
+छह | Six | Chhah | Turui
+सात | Seven | Saat | Eae
+आठ | Eight | Aath | Iral
+नौ | Nine | Nau | Are
+दस | Ten | Das | Gel
+माँ | Mother | Maa | Ayo
+पिता | Father | Pita | Apu
+बच्चा | Child | Bachcha | Hopon
+आँख | Eye | Aankh | Met
+कान | Ear | Kaan | Lutur
+नाक | Nose | Naak | Mu'
+सिर | Head | Sir | Bohok
+हाथ | Hand | Haath | Ti'
+पैर | Leg/Foot | Pair | Jang'
+बाल | Hair | Baal | Uv
+सूरज | Sun | Suraj | Singi
+चाँद | Moon | Chaand | Chando
+आग | Fire | Aag | Sengel
+पेड़ | Tree | Ped | Daru
+पत्थर | Stone | Patthar | Dhiri
+आकाश | Sky | Aakash | Sirma
+मिट्टी | Earth/Land | Mitti | Hasa
+कुत्ता | Dog | Kutta | Seta
+बिल्ली | Cat | Billi | Pusi
+पक्षी | Bird | Pakshi | Chele
+मछली | Fish | Machhli | Hako
+साँप | Snake | Saanp | Bing
+फूल | Flower | Phool | Baha
+नमक | Salt | Namak | Bulung
+नमस्ते | Hello | Namaste | Johar
+धन्यवाद | Thank you | Dhanyavaad | Sari Sari
+अलविदा | Goodbye | Alvida | Jom jom
+पानी | Water | Paani | Dak
+घर | House | Ghar | Era
+खाना | Food | Khaana | Jom
+एक | One | Ek | Mit
+दो | Two | Do | Bar
+तीन | Three | Teen | Pe
+चार | Four | Chaar | Pon
+पांच | Five | Paanch | Monre
+छह | Six | Chhah | Turui
+सात | Seven | Saat | Eae
+आठ | Eight | Aath | Iral
+नौ | Nine | Nau | Are
+दस | Ten | Das | Gel
+माँ | Mother | Maa | Ayo
+पिता | Father | Pita | Apu
+बच्चा | Child | Bachcha | Hopon
+आँख | Eye | Aankh | Met
+कान | Ear | Kaan | Lutur
+नाक | Nose | Naak | Mu'
+सिर | Head | Sir | Bohok
+हाथ | Hand | Haath | Ti'
+पैर | Leg/Foot | Pair | Jang'
+बाल | Hair | Baal | Uv
+सूरज | Sun | Suraj | Singi
+चाँद | Moon | Chaand | Chando
+आग | Fire | Aag | Sengel
+पेड़ | Tree | Ped | Daru
+पत्थर | Stone | Patthar | Dhiri
+आकाश | Sky | Aakash | Sirma
+मिट्टी | Earth/Land | Mitti | Hasa
+कुत्ता | Dog | Kutta | Seta
+बिल्ली | Cat | Billi | Pusi
+पक्षी | Bird | Pakshi | Chele
+मछली | Fish | Machhli | Hako
+साँप | Snake | Saanp | Bing
+फूल | Flower | Phool | Baha
+नमक | Salt | Namak | Bulung
+नमस्ते | Hello | Namaste | Johar
+धन्यवाद | Thank you | Dhanyavaad | Sari Sari
+अलविदा | Goodbye | Alvida | Jom jom
+पानी | Water | Paani | Dak
+घर | House | Ghar | Era
+खाना | Food | Khaana | Jom
+एक | One | Ek | Mit
+दो | Two | Do | Bar
+तीन | Three | Teen | Pe
+चार | Four | Chaar | Pon
+पांच | Five | Paanch | Monre
+छह | Six | Chhah | Turui
+सात | Seven | Saat | Eae
+आठ | Eight | Aath | Iral
+नौ | Nine | Nau | Are
+दस | Ten | Das | Gel
+माँ | Mother | Maa | Ayo
+पिता | Father | Pita | Apu
+बच्चा | Child | Bachcha | Hopon
+आँख | Eye | Aankh | Met
+कान | Ear | Kaan | Lutur
+नाक | Nose | Naak | Mu'
+सिर | Head | Sir | Bohok
+हाथ | Hand | Haath | Ti'
+पैर | Leg/Foot | Pair | Jang'
+बाल | Hair | Baal | Uv
+सूरज | Sun | Suraj | Singi
+चाँद | Moon | Chaand | Chando
+आग | Fire | Aag | Sengel
+पेड़ | Tree | Ped | Daru
+पत्थर | Stone | Patthar | Dhiri
+आकाश | Sky | Aakash | Sirma
+मिट्टी | Earth/Land | Mitti | Hasa
+कुत्ता | Dog | Kutta | Seta
+बिल्ली | Cat | Billi | Pusi
+पक्षी | Bird | Pakshi | Chele
+मछली | Fish | Machhli | Hako
+साँप | Snake | Saanp | Bing
+फूल | Flower | Phool | Baha
+नमक | Salt | Namak | Bulung
+ {
+  "name": "figma-make-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "oxfmt"
+  },
+  "dependencies": {
+    "lucide-react": "^1.43.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^3.10.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^6.0.0",
+    "oxfmt": "^0.2.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.0",
+    "vite": "^8.0.5"
+  }
+}
+[1:19 am, 11/09/2026] +91 91406 18306: {
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "bundler",
+    "baseUrl": ".",
+    "paths": {
+      "@/": ["./src/"]
+    },
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "types": ["node"],
+    "strict": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": ["src", "vite.config.ts"]
+}
