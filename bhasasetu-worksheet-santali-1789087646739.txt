@@ -1,0 +1,14 @@
+bhasaSetu AI — Bilingual Worksheet
+Language: Santali (संताली)  |  Level: Beginner  |  Activity: Read Aloud
+Generated: 11/9/2026
+
+No. | Hindi | English / Pronunciation | Translation
+────────────────────────────────────────────────────────────────
+1.  | नमस्ते | Namaste | Johar
+2.  | धन्यवाद | Dhanyavaad | Sari Sari
+3.  | अलविदा | Alvida | Jom jom
+4.  | पानी | Paani | Dak
+5.  | घर | Ghar | Era
+6.  | खाना | Khaana | Jom
+
+⚠️  Demo data — validate with native speakers before classroom use.
